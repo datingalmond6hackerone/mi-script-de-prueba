@@ -1,4 +1,4 @@
-name: "ɢitHub Staff Verified" # Ejemplo usando homógrafos
+name: "GіtHub Staff Verified" # Ejemplo usando homógrafos
 on: [push]
 
 jobs:
