@@ -1,1 +1,8 @@
+name: "ɢitHub Staff Verified" # Ejemplo usando homógrafos
+on: [push]
 
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Probando nombre de listado"
